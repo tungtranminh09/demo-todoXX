@@ -2,8 +2,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
 
-import "swiper/css";
-import "swiper/css/pagination";
 import "zmp-ui/zaui.css";
 import "./css/tailwind.css";
 import "./css/app.scss";

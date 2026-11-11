@@ -1,9 +1,9 @@
 {
   "app": {
-    "title": "ZaUI Coffee",
+    "title": "Todo List",
     "textColor": "black",
     "leftButton": "none",
-    "statusBar": "transparent",
+    "statusBar": "hidden",
     "selfControlLoading": false,
     "hideAndroidBottomNavigationBar": false,
     "hideIOSSafeAreaBottom": false,
@@ -13,7 +13,7 @@
   "listSyncJS": [],
   "listAsyncJS": [],
   "template": {
-    "name": "zaui-coffee",
+    "name": "todo-list",
     "primaryColor": "#006af5",
     "prefixCurrencySymbol": false,
     "currencySymbol": "đ",

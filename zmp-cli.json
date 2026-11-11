@@ -1,6 +1,7 @@
 {
+  "appId": "3299221058539073733",
   "cwd": "/Users/lap15182-local/Desktop/zalo/zaui-coffee",
-  "name": "ZaUI Coffee",
+  "name": "Todo List",
   "framework": "react-typescript",
   "cssPreProcessor": "scss",
   "includeTailwind": true,

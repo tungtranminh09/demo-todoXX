@@ -1,8 +1,8 @@
 {
-  "name": "zaui-coffee",
+  "name": "todo-list",
   "private": true,
   "version": "1.1.0",
-  "description": "ZaUI Coffee",
+  "description": "Todo List",
   "repository": "",
   "license": "UNLICENSED",
   "browserslist": [
