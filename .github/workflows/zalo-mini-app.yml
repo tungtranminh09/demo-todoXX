@@ -22,6 +22,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Copy built config
+        run: cp www/app-config.json app-config.json
+
       - name: Install zmp-cli
         run: npm install -g zmp-cli
 
